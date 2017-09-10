@@ -19,7 +19,7 @@ return [
     'app_id'  => env('WECHAT_APPID', 'wx4bdbe4cf2815ed92'),         // AppID
     'secret'  => env('WECHAT_SECRET', '5048adb3ee961c287c89f0cd0bcc68fe'),     // AppSecret
     'token'   => env('WECHAT_TOKEN', 'zd_bourne'),          // Token
-    'aes_key' => env('WECHAT_AES_KEY', ''),                    // EncodingAESKey
+    'aes_key' => env('WECHAT_AES_KEY', 'BFoOUDp0t288GrK7mkbt1SQhEIj4EIVbxkynGej4Qxh'),                    // EncodingAESKey
 
     /*
      * 日志配置
